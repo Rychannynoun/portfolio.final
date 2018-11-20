@@ -1,0 +1,41 @@
+CSS
+
+
+* {
+    font-family: Arial, Monospace, sans-serif;
+    color: #665544;
+    text-align: center;
+                }
+   body {
+    width: 90%;
+    margin: 0 auto;
+                background-color:#ffe6ff;
+                background-image: url(https://cache.desktopnexus.com/thumbseg/29/29381-bigthumbnail.jpg);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+                
+
+}
+
+   
+   li {
+    display: inline;
+    padding: 0.5em;}
+   #nav, #footer {
+    background-color: #e600e6;
+    padding: 0.5em 0;}
+
+}
+            
+            #nav { background-color:  #ff99ff; }
+      
+        
+                
+  
+  h1 { 
+   font-family: 'SofiaRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+    color: black;
+}
